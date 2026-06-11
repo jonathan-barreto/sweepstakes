@@ -308,8 +308,12 @@ Retorna os dados de um participante buscando pelo email.
   "data": {
     "id": "550e8400-e29b-41d4-a716-446655440000",
     "name": "joao",
+    "nickname": "joaogol",
+    "favorite_team": "Brasil",
+    "profile_completed": true,
     "email": "joao@example.com",
-    "created_at": "2026-05-15T10:30:00Z"
+    "created_at": "2026-05-15T10:30:00Z",
+    "updated_at": "2026-05-15T11:10:00Z"
   },
   "message": "Participant found"
 }
@@ -347,6 +351,96 @@ Retorna os dados de um participante buscando pelo email.
 ### Exemplo de Uso
 ```bash
 curl -X GET "http://127.0.0.1:54321/functions/v1/participant?email=joao@example.com"
+```
+
+---
+
+## 6. Complete Participant Profile
+
+**Endpoint:** `POST /functions/v1/complete-participant-profile`
+
+### Descrição
+Completa o cadastro do participante após login com os campos Nome, Nickname e Time do coração.
+
+### Requisitos
+- Usuário autenticado (JWT obrigatório)
+- O participante inicial já deve existir (criado via `create-participant`)
+
+### Body Esperado
+```json
+{
+  "name": "João Silva",
+  "nickname": "joaogol",
+  "favorite_team": "Brasil"
+}
+```
+
+### Response de Sucesso (200)
+```json
+{
+  "success": true,
+  "data": {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "João Silva",
+    "nickname": "joaogol",
+    "favorite_team": "Brasil",
+    "email": "joao@example.com",
+    "profile_completed": true,
+    "created_at": "2026-05-15T10:30:00Z",
+    "updated_at": "2026-05-15T11:10:00Z"
+  },
+  "message": "Profile completed successfully"
+}
+```
+
+### Respostas de Erro
+
+**400 Bad Request** — Validação falhou
+```json
+{
+  "success": false,
+  "data": null,
+  "message": "nickname is required and must be a string"
+}
+```
+
+**401 Unauthorized** — Token ausente/inválido
+```json
+{
+  "success": false,
+  "data": null,
+  "message": "Unauthorized"
+}
+```
+
+**404 Not Found** — Participante não encontrado
+```json
+{
+  "success": false,
+  "data": null,
+  "message": "Participant not found. Complete initial registration first."
+}
+```
+
+**409 Conflict** — Nickname já utilizado
+```json
+{
+  "success": false,
+  "data": null,
+  "message": "Nickname already in use"
+}
+```
+
+### Exemplo de Uso
+```bash
+curl -X POST http://127.0.0.1:54321/functions/v1/complete-participant-profile \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer [JWT]" \
+  -d '{
+    "name": "João Silva",
+    "nickname": "joaogol",
+    "favorite_team": "Brasil"
+  }'
 ```
 
 ### HTTP Status Codes
@@ -389,7 +483,17 @@ curl -X POST http://127.0.0.1:54321/functions/v1/create-prediction \
 # 5. Ver leaderboard
 curl -X GET http://127.0.0.1:54321/functions/v1/leaderboard
 
-# 6. Atualizar leaderboard
+# 6. Completar perfil pós-login
+curl -X POST http://127.0.0.1:54321/functions/v1/complete-participant-profile \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer [JWT]" \
+  -d '{
+    "name": "João Silva",
+    "nickname": "joaogol",
+    "favorite_team": "Brasil"
+  }'
+
+# 7. Atualizar leaderboard
 curl -X POST http://127.0.0.1:54321/functions/v1/update-leaderboard \
   -H "Content-Type: application/json"
 ```

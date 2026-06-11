@@ -7,8 +7,12 @@ interface GetParticipantResponse {
   data: {
     id: string
     name: string
+    nickname: string | null
+    favorite_team: string | null
+    profile_completed: boolean
     email: string
     created_at: string
+    updated_at: string
   } | null
   message: string
 }
@@ -111,7 +115,7 @@ Deno.serve(async (req) => {
     // Fetch participant by email
     const { data: participant, error } = await supabase
       .from("participants")
-      .select("id, name, email, created_at")
+      .select("id, name, nickname, favorite_team, profile_completed, email, created_at, updated_at")
       .eq("email", normalizedEmail)
       .single()
 
@@ -144,8 +148,12 @@ Deno.serve(async (req) => {
         data: {
           id: participant.id,
           name: participant.name,
+          nickname: participant.nickname,
+          favorite_team: participant.favorite_team,
+          profile_completed: participant.profile_completed,
           email: participant.email,
           created_at: participant.created_at,
+          updated_at: participant.updated_at,
         },
         message: "Participant found",
       },
