@@ -1,0 +1,1091 @@
+﻿{
+  "rounds": [
+    {
+      "total_matches": 24,
+      "round_number": 1,
+      "groups": [
+        {
+          "group_name": "A",
+          "matches": [
+            {
+              "match_date": "2026-06-11",
+              "city": "Mexico City",
+              "group_name": "A",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "México",
+              "away_team": "África do Sul"
+            },
+            {
+              "match_date": "2026-06-11",
+              "city": "Zapopan",
+              "group_name": "A",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Coreia do Sul",
+              "away_team": "República Tcheca"
+            }
+          ]
+        },
+        {
+          "group_name": "B",
+          "matches": [
+            {
+              "match_date": "2026-06-12",
+              "city": "Toronto",
+              "group_name": "B",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Canadá",
+              "away_team": "Bósnia e Herzegovina"
+            },
+            {
+              "match_date": "2026-06-12",
+              "city": "San Francisco",
+              "group_name": "B",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Catar",
+              "away_team": "Suíça"
+            }
+          ]
+        },
+        {
+          "group_name": "C",
+          "matches": [
+            {
+              "match_date": "2026-06-13",
+              "city": "New Jersey",
+              "group_name": "C",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Brasil",
+              "away_team": "Marrocos"
+            },
+            {
+              "match_date": "2026-06-13",
+              "city": "Boston",
+              "group_name": "C",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Haiti",
+              "away_team": "Escócia"
+            }
+          ]
+        },
+        {
+          "group_name": "D",
+          "matches": [
+            {
+              "match_date": "2026-06-12",
+              "city": "Los Angeles",
+              "group_name": "D",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "EUA",
+              "away_team": "Paraguai"
+            },
+            {
+              "match_date": "2026-06-13",
+              "city": "Vancouver",
+              "group_name": "D",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Austrália",
+              "away_team": "Turquia"
+            }
+          ]
+        },
+        {
+          "group_name": "E",
+          "matches": [
+            {
+              "match_date": "2026-06-14",
+              "city": "Houston",
+              "group_name": "E",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Alemanha",
+              "away_team": "Curaçao"
+            },
+            {
+              "match_date": "2026-06-14",
+              "city": "Philadelphia",
+              "group_name": "E",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Costa do Marfim",
+              "away_team": "Equador"
+            }
+          ]
+        },
+        {
+          "group_name": "F",
+          "matches": [
+            {
+              "match_date": "2026-06-14",
+              "city": "Dallas",
+              "group_name": "F",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Holanda",
+              "away_team": "Japão"
+            },
+            {
+              "match_date": "2026-06-14",
+              "city": "Guadalupe",
+              "group_name": "F",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Suécia",
+              "away_team": "Tunísia"
+            }
+          ]
+        },
+        {
+          "group_name": "G",
+          "matches": [
+            {
+              "match_date": "2026-06-15",
+              "city": "Vancouver",
+              "group_name": "G",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Bélgica",
+              "away_team": "Egito"
+            },
+            {
+              "match_date": "2026-06-15",
+              "city": "Miami",
+              "group_name": "G",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Arábia Saudita",
+              "away_team": "Uruguai"
+            }
+          ]
+        },
+        {
+          "group_name": "H",
+          "matches": [
+            {
+              "match_date": "2026-06-15",
+              "city": "Atlanta",
+              "group_name": "H",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Espanha",
+              "away_team": "Cabo Verde"
+            },
+            {
+              "match_date": "2026-06-15",
+              "city": "Miami",
+              "group_name": "H",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Arábia Saudita",
+              "away_team": "Uruguai"
+            }
+          ]
+        },
+        {
+          "group_name": "I",
+          "matches": [
+            {
+              "match_date": "2026-06-16",
+              "city": "New Jersey",
+              "group_name": "I",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "França",
+              "away_team": "Senegal"
+            },
+            {
+              "match_date": "2026-06-16",
+              "city": "Boston",
+              "group_name": "I",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Iraque",
+              "away_team": "Noruega"
+            }
+          ]
+        },
+        {
+          "group_name": "J",
+          "matches": [
+            {
+              "match_date": "2026-06-16",
+              "city": "Kansas City",
+              "group_name": "J",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Argentina",
+              "away_team": "Argélia"
+            },
+            {
+              "match_date": "2026-06-16",
+              "city": "San Francisco",
+              "group_name": "J",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Áustria",
+              "away_team": "Jordânia"
+            }
+          ]
+        },
+        {
+          "group_name": "K",
+          "matches": [
+            {
+              "match_date": "2026-06-17",
+              "city": "Houston",
+              "group_name": "K",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Portugal",
+              "away_team": "República Democrática do Congo"
+            },
+            {
+              "match_date": "2026-06-17",
+              "city": "???",
+              "group_name": "K",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Uzbequistão",
+              "away_team": "Colômbia"
+            }
+          ]
+        },
+        {
+          "group_name": "L",
+          "matches": [
+            {
+              "match_date": "2026-06-17",
+              "city": "Dallas",
+              "group_name": "L",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Inglaterra",
+              "away_team": "Croácia"
+            },
+            {
+              "match_date": "2026-06-17",
+              "city": "Toronto",
+              "group_name": "L",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 1,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Gana",
+              "away_team": "Panamá"
+            }
+          ]
+        }
+      ],
+      "start_date": "2026-06-11",
+      "end_date": "2026-06-17",
+      "period": "11-17 de junho"
+    },
+    {
+      "total_matches": 25,
+      "round_number": 2,
+      "groups": [
+        {
+          "group_name": "A",
+          "matches": [
+            {
+              "match_date": "2026-06-18",
+              "city": "Atlanta",
+              "group_name": "A",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "República Tcheca",
+              "away_team": "África do Sul"
+            },
+            {
+              "match_date": "2026-06-18",
+              "city": "Zapopan",
+              "group_name": "A",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "México",
+              "away_team": "Coreia do Sul"
+            }
+          ]
+        },
+        {
+          "group_name": "B",
+          "matches": [
+            {
+              "match_date": "2026-06-18",
+              "city": "Los Angeles",
+              "group_name": "B",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Suíça",
+              "away_team": "Bósnia e Herzegovina"
+            },
+            {
+              "match_date": "2026-06-21",
+              "city": "Vancouver",
+              "group_name": "B",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Canadá",
+              "away_team": "Catar"
+            }
+          ]
+        },
+        {
+          "group_name": "C",
+          "matches": [
+            {
+              "match_date": "2026-06-19",
+              "city": "Boston",
+              "group_name": "C",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Escócia",
+              "away_team": "Marrocos"
+            },
+            {
+              "match_date": "2026-06-19",
+              "city": "Philadelphia",
+              "group_name": "C",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Brasil",
+              "away_team": "Haiti"
+            }
+          ]
+        },
+        {
+          "group_name": "D",
+          "matches": [
+            {
+              "match_date": "2026-06-19",
+              "city": "Seattle",
+              "group_name": "D",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "EUA",
+              "away_team": "Austrália"
+            },
+            {
+              "match_date": "2026-06-19",
+              "city": "San Francisco",
+              "group_name": "D",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Turquia",
+              "away_team": "Paraguai"
+            }
+          ]
+        },
+        {
+          "group_name": "E",
+          "matches": [
+            {
+              "match_date": "2026-06-20",
+              "city": "Toronto",
+              "group_name": "E",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Alemanha",
+              "away_team": "Costa do Marfim"
+            },
+            {
+              "match_date": "2026-06-20",
+              "city": "Kansas City",
+              "group_name": "E",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Equador",
+              "away_team": "Curaçao"
+            }
+          ]
+        },
+        {
+          "group_name": "F",
+          "matches": [
+            {
+              "match_date": "2026-06-20",
+              "city": "Houston",
+              "group_name": "F",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Holanda",
+              "away_team": "Suécia"
+            },
+            {
+              "match_date": "2026-06-20",
+              "city": "Guadalupe",
+              "group_name": "F",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Tunísia",
+              "away_team": "Japão"
+            }
+          ]
+        },
+        {
+          "group_name": "G",
+          "matches": [
+            {
+              "match_date": "2026-06-21",
+              "city": "Atlanta",
+              "group_name": "G",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Espanha",
+              "away_team": "Arábia Saudita"
+            },
+            {
+              "match_date": "2026-06-21",
+              "city": "Los Angeles",
+              "group_name": "G",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Bélgica",
+              "away_team": "Irã"
+            },
+            {
+              "match_date": "2026-06-21",
+              "city": "Vancouver",
+              "group_name": "G",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Nova Zelândia",
+              "away_team": "Egito"
+            }
+          ]
+        },
+        {
+          "group_name": "H",
+          "matches": [
+            {
+              "match_date": "2026-06-20",
+              "city": "Miami",
+              "group_name": "H",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Uruguai",
+              "away_team": "Cabo Verde"
+            },
+            {
+              "match_date": "2026-06-21",
+              "city": "Atlanta",
+              "group_name": "H",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Espanha",
+              "away_team": "Arábia Saudita"
+            }
+          ]
+        },
+        {
+          "group_name": "I",
+          "matches": [
+            {
+              "match_date": "2026-06-21",
+              "city": "New Jersey",
+              "group_name": "I",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "França",
+              "away_team": "Iraque"
+            },
+            {
+              "match_date": "2026-06-21",
+              "city": "Boston",
+              "group_name": "I",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Senegal",
+              "away_team": "Noruega"
+            }
+          ]
+        },
+        {
+          "group_name": "J",
+          "matches": [
+            {
+              "match_date": "2026-06-22",
+              "city": "Dallas",
+              "group_name": "J",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Argentina",
+              "away_team": "Áustria"
+            },
+            {
+              "match_date": "2026-06-22",
+              "city": "San Francisco",
+              "group_name": "J",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Jordânia",
+              "away_team": "Argélia"
+            }
+          ]
+        },
+        {
+          "group_name": "K",
+          "matches": [
+            {
+              "match_date": "2026-06-23",
+              "city": "Houston",
+              "group_name": "K",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Portugal",
+              "away_team": "Uzbequistão"
+            },
+            {
+              "match_date": "2026-06-23",
+              "city": "Zapopan",
+              "group_name": "K",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Colômbia",
+              "away_team": "República Democrática do Congo"
+            }
+          ]
+        },
+        {
+          "group_name": "L",
+          "matches": [
+            {
+              "match_date": "2026-06-23",
+              "city": "Boston",
+              "group_name": "L",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Inglaterra",
+              "away_team": "Gana"
+            },
+            {
+              "match_date": "2026-06-23",
+              "city": "Toronto",
+              "group_name": "L",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 2,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Panamá",
+              "away_team": "Croácia"
+            }
+          ]
+        }
+      ],
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-23",
+      "period": "18-23 de junho"
+    },
+    {
+      "total_matches": 23,
+      "round_number": 3,
+      "groups": [
+        {
+          "group_name": "A",
+          "matches": [
+            {
+              "match_date": "2026-06-24",
+              "city": "Mexico City",
+              "group_name": "A",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "República Tcheca",
+              "away_team": "México"
+            },
+            {
+              "match_date": "2026-06-24",
+              "city": "Guadalupe",
+              "group_name": "A",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "África do Sul",
+              "away_team": "Coreia do Sul"
+            }
+          ]
+        },
+        {
+          "group_name": "B",
+          "matches": [
+            {
+              "match_date": "2026-06-24",
+              "city": "Vancouver",
+              "group_name": "B",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Suíça",
+              "away_team": "Canadá"
+            },
+            {
+              "match_date": "2026-06-24",
+              "city": "Seattle",
+              "group_name": "B",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Bósnia e Herzegovina",
+              "away_team": "Catar"
+            }
+          ]
+        },
+        {
+          "group_name": "C",
+          "matches": [
+            {
+              "match_date": "2026-06-24",
+              "city": "Miami",
+              "group_name": "C",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Escócia",
+              "away_team": "Brasil"
+            },
+            {
+              "match_date": "2026-06-24",
+              "city": "Atlanta",
+              "group_name": "C",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Marrocos",
+              "away_team": "Haiti"
+            }
+          ]
+        },
+        {
+          "group_name": "D",
+          "matches": [
+            {
+              "match_date": "2026-06-25",
+              "city": "Los Angeles",
+              "group_name": "D",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Turquia",
+              "away_team": "EUA"
+            },
+            {
+              "match_date": "2026-06-25",
+              "city": "San Francisco",
+              "group_name": "D",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Paraguai",
+              "away_team": "Austrália"
+            }
+          ]
+        },
+        {
+          "group_name": "E",
+          "matches": [
+            {
+              "match_date": "2026-06-25",
+              "city": "New Jersey",
+              "group_name": "E",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Equador",
+              "away_team": "Alemanha"
+            },
+            {
+              "match_date": "2026-06-25",
+              "city": "Philadelphia",
+              "group_name": "E",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Curaçao",
+              "away_team": "Costa do Marfim"
+            }
+          ]
+        },
+        {
+          "group_name": "F",
+          "matches": [
+            {
+              "match_date": "2026-06-25",
+              "city": "Dallas",
+              "group_name": "F",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Japão",
+              "away_team": "Suécia"
+            },
+            {
+              "match_date": "2026-06-25",
+              "city": "Kansas City",
+              "group_name": "F",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Tunísia",
+              "away_team": "Holanda"
+            }
+          ]
+        },
+        {
+          "group_name": "G",
+          "matches": [
+            {
+              "match_date": "2026-06-26",
+              "city": "Los Angeles",
+              "group_name": "G",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Irã",
+              "away_team": "Bélgica"
+            }
+          ]
+        },
+        {
+          "group_name": "H",
+          "matches": [
+            {
+              "match_date": "2026-06-26",
+              "city": "Houston",
+              "group_name": "H",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Cabo Verde",
+              "away_team": "Arábia Saudita"
+            },
+            {
+              "match_date": "2026-06-26",
+              "city": "Zapopan",
+              "group_name": "H",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Uruguai",
+              "away_team": "Espanha"
+            }
+          ]
+        },
+        {
+          "group_name": "I",
+          "matches": [
+            {
+              "match_date": "2026-06-26",
+              "city": "Boston",
+              "group_name": "I",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Noruega",
+              "away_team": "França"
+            },
+            {
+              "match_date": "2026-06-26",
+              "city": "Toronto",
+              "group_name": "I",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Senegal",
+              "away_team": "Iraque"
+            }
+          ]
+        },
+        {
+          "group_name": "J",
+          "matches": [
+            {
+              "match_date": "2026-06-27",
+              "city": "Kansas City",
+              "group_name": "J",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Argélia",
+              "away_team": "Áustria"
+            },
+            {
+              "match_date": "2026-06-27",
+              "city": "Dallas",
+              "group_name": "J",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Jordânia",
+              "away_team": "Argentina"
+            }
+          ]
+        },
+        {
+          "group_name": "K",
+          "matches": [
+            {
+              "match_date": "2026-06-27",
+              "city": "Miami",
+              "group_name": "K",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Colômbia",
+              "away_team": "Portugal"
+            },
+            {
+              "match_date": "2026-06-27",
+              "city": "Atlanta",
+              "group_name": "K",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "República Democrática do Congo",
+              "away_team": "Uzbequistão"
+            }
+          ]
+        },
+        {
+          "group_name": "L",
+          "matches": [
+            {
+              "match_date": "2026-06-27",
+              "city": "New Jersey",
+              "group_name": "L",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Panamá",
+              "away_team": "Inglaterra"
+            },
+            {
+              "match_date": "2026-06-27",
+              "city": "Philadelphia",
+              "group_name": "L",
+              "away_score": null,
+              "home_score": null,
+              "round_number": 3,
+              "status": "scheduled",
+              "stage": "Fase de Grupos",
+              "home_team": "Croácia",
+              "away_team": "Gana"
+            }
+          ]
+        }
+      ],
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-27",
+      "period": "24-27 de junho"
+    }
+  ],
+  "venue_info": {
+    "total_stadiums": 16,
+    "countries": [
+      "Estados Unidos",
+      "Canadá",
+      "México"
+    ]
+  },
+  "stage": "Fase de Grupos",
+  "total_groups": 12,
+  "tournament": "FIFA World Cup 2026™",
+  "total_matches": 72,
+  "date_range": {
+    "start": "2026-06-11",
+    "end": "2026-06-27"
+  }
+}
