@@ -43,9 +43,9 @@ function getCurrentRound(now: Date): number {
   const groupPhaseEnd = new Date("2026-06-28")
 
   if (now < round2Start) {
-    return 1
-  } else if (now < round3Start) {
     return 2
+  } else if (now < round3Start) {
+    return 3
   } else if (now < groupPhaseEnd) {
     return 3
   }
