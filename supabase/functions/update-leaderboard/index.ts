@@ -95,7 +95,8 @@ Deno.serve(async (req: Request) => {
     const { data: matches, error: matchesError } = await supabase
       .from("matches")
       .select("id, home_score, away_score, status")
-      .eq("status", "finished");
+      .not("home_score", "is", null)
+      .not("away_score", "is", null);
 
     if (matchesError) {
       console.error("Error fetching matches:", matchesError);
